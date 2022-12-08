@@ -182,6 +182,7 @@ section .main .button:hover i{
 
 .products h1{
     margin: 35px 0;
+    margin-top: 12%;
     font-size: 60px;
     display: flex;
     align-items: center;
@@ -296,7 +297,7 @@ section .main .button:hover i{
 
 .about h1{
     font-size: 60px;
-    margin-top: 20px;
+    margin-top: 25%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -416,8 +417,9 @@ section .main .button:hover i{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     text-transform: uppercase;
+    margin-top: 28%;
 }
 
 .review h1 span{
@@ -507,8 +509,7 @@ section .main .button:hover i{
     width: 70%;
     margin: 0 auto;
     text-align: center;
-    padding: 80px 0 10px 0;
-}
+    padding: 45% 0 10% 0;}
 
 .services h1{
     font-size: 60px;
